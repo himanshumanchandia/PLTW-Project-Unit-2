@@ -1,0 +1,50 @@
+Aang,1
+Zuko,1
+Katara,1
+Sokka,1
+Toph,1
+Iroh,1
+Azula,-1
+Fire Nation,-1
+Air Nomads,1
+Water Tribe,1
+Earth Kingdom,1
+bending,1
+Avatar,1
+spirit world,1
+Appa,1
+Momo,1
+redemption,1
+betrayal,-1
+honor,1
+friendship,2
+loyalty,1
+treachery,-1
+peace,1
+war,-1
+Sozin's Comet,0
+Ba Sing Se,0
+spirituality,1
+equality,-1
+oppression,-1
+freedom,1
+adventure,1
+family,1
+loss,-1
+love,1
+sacrifice,1
+courage,1
+fear,-1
+justice,1
+tyranny,-1
+hope,1
+despair,-1
+humor,1
+wisdom,1
+power,-1
+balance,1
+conflict,-1
+healing,1
+leadership,1
+teamwork,1
+harmony,1

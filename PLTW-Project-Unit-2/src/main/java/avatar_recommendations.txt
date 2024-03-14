@@ -1,0 +1,3 @@
+Positive: "Loved 'Avatar: The Last Airbender'? Continue the adventure with 'The Legend of Korra' next!"
+Neutral: "Interested in exploring more about the Avatar world? Check out the official graphic novels."
+Negative: "Looking for a change of pace? 'The Dragon Prince' offers a rich story and engaging world-building."
